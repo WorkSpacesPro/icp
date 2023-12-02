@@ -5,16 +5,16 @@ permalink: /docs/
 weight: 5
 ---
 
-# About portfolYOU <small class="text-muted">{{ site.github.latest_release.tag_name }}</small>
-{:.no_toc}
+# **docs**
 
-{%- assign partials_dir = "partials" -%}
-{%- assign docs = site.static_files | where_exp: "file", "file.path contains partials_dir" -%}
+Hi I am **{{ site.author.name }}** :wave:,<br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-{% for doc in docs %}
-{% assign parent_dir = doc.path | split: partials_dir | first %}
-{% assign relative_path = doc.path | remove: parent_dir %}
-{% include_relative {{ relative_path }} %}
-{% endfor %}
+<div class="row">
+{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+</div>
 
-{% include elements/github-edit-footer.html %}
+<div class="row">
+{% include about/timeline.html %}
+</div>
