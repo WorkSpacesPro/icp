@@ -41,8 +41,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>This line is separated from the one above by two newlines, so it will be a <em>separate paragraph</em>.</p>
 
-<p>This line is also a separate paragraph, but…
-This line is only separated by a single newline, so it’s a separate line in the <em>same paragraph</em>.</p>
 <details>
 
     <summary class="text-monospace">View Code...</summary><figure class="highlight"><pre><code class="language-liquid" data-lang="liquid">Here's a line for us to start with.
@@ -76,6 +74,7 @@ GitHub</a>
 </div>
     
   <!-- alert警告框 -->
+  <h2 id="list-group"> alert警告框</h2>
 <div class="alert alert-primary" role="alert">
   A simple primary alert—check it out!
 </div>
