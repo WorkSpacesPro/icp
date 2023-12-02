@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div class="col-lg-10 mx-auto mt-5 markdown-body">
   <h1>Elements</h1>
 
-<div class="list-group my-5">
+<div class="list-group my-8">
   <a class="list-group-item active disabled text-white">Table of Contents</a>
   <a class="list-group-item list-group-item-action" href="https://icp.me/docs">Headers</a>
   <a class="list-group-item list-group-item-action" href="#emphasis">Emphasis</a>
