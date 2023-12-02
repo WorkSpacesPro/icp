@@ -8,8 +8,7 @@ weight: 5
 # **docs**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+测试页面
 <div class="row">
 <div class="col-lg-10 mx-auto mt-5 markdown-body">
     <!-- Elements -->
@@ -20,13 +19,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <a class="list-group-item list-group-item-action" href="#emphasis">Emphasis</a>
   <a class="list-group-item list-group-item-action" href="#highlight">Highlight</a>
   <a class="list-group-item list-group-item-action" href="#blockquotes">Blockquotes</a>
-  <a class="list-group-item list-group-item-action" href="#links">Links</a>
-  <a class="list-group-item list-group-item-action" href="#line-breaks">Line Breaks</a>
-  <a class="list-group-item list-group-item-action" href="#horizontal-rule">Horizontal Rule</a>
-  <a class="list-group-item list-group-item-action" href="#code">Code</a>
-  <a class="list-group-item list-group-item-action" href="#syntax-highlighting">Syntax Highlighting</a>
-  <a class="list-group-item list-group-item-action" href="#github-gists">Github Gists</a>
-  <a class="list-group-item list-group-item-action" href="#buttons"> Buttons</a>
 </div>
      <!-- Highlight -->
   <h2 id="highlight"> Highlight</h2>
