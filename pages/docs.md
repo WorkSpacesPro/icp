@@ -27,16 +27,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <a class="list-group-item list-group-item-action" href="#syntax-highlighting">Syntax Highlighting</a>
   <a class="list-group-item list-group-item-action" href="#github-gists">Github Gists</a>
   <a class="list-group-item list-group-item-action" href="#buttons"> Buttons</a>
-  <a class="list-group-item list-group-item-action" href="#ordered-list">Ordered List</a>
-  <a class="list-group-item list-group-item-action" href="#unordered-list"> Unordered List</a>
-  <a class="list-group-item list-group-item-action" href="#list-group">List Group</a>
-  <a class="list-group-item list-group-item-action" href="#table-of-contents">Table Of Contents</a>
-  <a class="list-group-item list-group-item-action" href="#images">Images</a>
-  <a class="list-group-item list-group-item-action" href="#figures"> Figures</a>
-  <a class="list-group-item list-group-item-action" href="#carousel"> Carousel</a>
-  <a class="list-group-item list-group-item-action" href="#videos"> Videos</a>
-  <a class="list-group-item list-group-item-action" href="#tables"> Tables</a>
-  <a class="list-group-item list-group-item-action" href="#task-list">Task List</a>
 </div>
      <!-- Highlight -->
   <h2 id="highlight"> Highlight</h2>
