@@ -84,7 +84,6 @@ print s;
 <a class="list-group-item active disabled text-white">Websites</a><a class="list-group-item list-group-item-action" href="https://www.google.com">Google</a><a class="list-group-item list-group-item-action" href="https://www.github.com">
 GitHub</a>
 </div>
-<details>
     
   <!-- alert警告框 -->
 <div class="alert alert-primary" role="alert">
@@ -120,4 +119,4 @@ GitHub</a>
 <a class="btn btn-outline-info" href="#" role="button">info</a>
 <a class="btn btn-outline-light" href="#" role="button">light</a>
 <a class="btn btn-outline-dark" href="#" role="button">dark</a>
-
+</div>
