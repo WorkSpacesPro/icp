@@ -68,7 +68,7 @@ GitHub</a>
   <!-- alert警告框 -->
   <h2 id="list-group"> alert警告框</h2>
 <div class="alert alert-primary" role="alert">
-  A simple primary alert—check it out!
+ <a href="https://www.google.com"> A simple primary alert—check it out!I’m a link</a>
 </div>
 <div class="alert alert-secondary" role="alert">
   A simple secondary alert—check it out!
