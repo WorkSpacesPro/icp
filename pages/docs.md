@@ -111,16 +111,13 @@ GitHub</a>
 <div class="alert alert-dark" role="alert">
   A simple dark alert—check it out!
 </div>
-<!-- alert警告框 -->
-<button type="button" class="btn btn-outline-primary">Primary</button>
-<button type="button" class="btn btn-outline-secondary">Secondary</button>
-<button type="button" class="btn btn-outline-success">Success</button>
-<button type="button" class="btn btn-outline-danger">Danger</button>
-<button type="button" class="btn btn-outline-warning">Warning</button>
-<button type="button" class="btn btn-outline-info">Info</button>
-<button type="button" class="btn btn-outline-light">Light</button>
-<button type="button" class="btn btn-outline-dark">Dark</button>
-
-</div>
-</div>
+<!-- alert警告框链接 -->
+<a class="btn btn-outline-primary" href="#" role="button">primary</a>
+<a class="btn btn-outline-secondary" href="#" role="button">secondary</a>
+<a class="btn btn-outline-success" href="#" role="button">success</a>
+<a class="btn btn-outline-danger" href="#" role="button">danger</a>
+<a class="btn btn-outline-warning" href="#" role="button">warning</a>
+<a class="btn btn-outline-info" href="#" role="button">info</a>
+<a class="btn btn-outline-light" href="#" role="button">light</a>
+<a class="btn btn-outline-dark" href="#" role="button">dark</a>
 
