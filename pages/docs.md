@@ -11,6 +11,12 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 测试页面
 <div class="row">
 <div class="col-lg-10 mx-auto mt-5 markdown-body">
+        <!-- 关闭警告框 -->
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+  <strong>关闭警告框!</strong> You should check in on some of those fields below.
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
+    
     <!-- Elements -->
   <h1>Elements</h1>
 <div class="list-group my-3">
