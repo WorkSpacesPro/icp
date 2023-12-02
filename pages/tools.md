@@ -9,23 +9,23 @@ tools:
   tool:
   # tool loop in tool category
   - name: Git
-    image: "/assets/images/tools/Git.png"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://git-scm.com/
   # tool loop in tool category
   - name: Atom
-    image: "/assets/images/tools/Atom.png"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://atom.io/
   # tool loop in tool category
   - name: Notepad ++
-    image: "/assets/images/tools/Notepad.png"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://notepad-plus-plus.org/
   # tool loop in tool category
   - name: Sublime Text
-    image: "/assets/images/tools/sublime.png"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://www.sublimetext.com/
   # tool loop in tool category
   - name: Visual Studio Code
-    image: "/assets/images/tools/vs-code.png"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://code.visualstudio.com/
 
 
@@ -34,23 +34,23 @@ tools:
   tool:
   # tool loop in tool category
   - name: Sketch
-    image: "/assets/images/tools/sketch.png"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://www.sketch.com/
   # tool loop in tool category
   - name: Adobe Illustrator
-    image: "/assets/images/tools/illustrator.png"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://www.adobe.com/products/illustrator.html
   # tool loop in tool category
   - name: Invision
-    image: "/assets/images/tools/invision.png"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://www.invisionapp.com/studio
   # tool loop in tool category
   - name: Adobe XD
-    image: "/assets/images/tools/xd.png"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://www.adobe.com/products/xd.html
   # tool loop in tool category
   - name: Figma
-    image: "/assets/images/tools/figma.png"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://www.figma.com/
 
 
@@ -59,31 +59,31 @@ tools:
   tool:
   # tool loop in tool category
   - name: Mailchimp
-    image: "/assets/images/tools/MailChimp.jpg"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://mailchimp.com/
   # tool loop in tool category
   - name: Buffer
-    image: "/assets/images/tools/Buffer.jpg"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://buffer.com/
   # tool loop in tool category
   - name: Bitly Link
-    image: "/assets/images/tools/Bitly.jpg"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://bitly.com/
   # tool loop in tool category
   - name: Hotjar
-    image: "/assets/images/tools/Hotjar.jpg"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://www.hotjar.com/
   # tool loop in tool category
   - name: Ahrefs
-    image: "/assets/images/tools/Ahrefs.jpg"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://ahrefs.com/
   # tool loop in tool category
   - name: Google Trends
-    image: "/assets/images/tools/GoogleTrends.jpg"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://trends.google.com/trends/
   # tool loop in tool category
   - name: Google Analytics
-    image: "/assets/images/tools/Google-Analytics.jpg"
+    image: "https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg"
     link: https://analytics.google.com/analytics/web
 
 ---
