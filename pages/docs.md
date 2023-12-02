@@ -68,28 +68,28 @@ GitHub</a>
   <!-- alert警告框 -->
   <h2 id="list-group"> alert警告框</h2>
 <div class="alert alert-primary" role="alert">
- <a href="https://www.google.com"> A simple primary alert—check it out!I’m a link</a>
+  A simple primary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
 <div class="alert alert-secondary" role="alert">
-   <a href="https://www.google.com">A simple secondary alert—check it out!</a>
+  A simple secondary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
 <div class="alert alert-success" role="alert">
-   <a href="https://www.google.com">A simple success alert—check it out!</a>
+  A simple success alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
 <div class="alert alert-danger" role="alert">
-  <a href="https://www.google.com"> A simple danger alert—check it out!</a>
+  A simple danger alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
 <div class="alert alert-warning" role="alert">
-  <a href="https://www.google.com"> A simple warning alert—check it out!</a>
+  A simple warning alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
 <div class="alert alert-info" role="alert">
-  <a href="https://www.google.com"> A simple info alert—check it out!</a>
+  A simple info alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
 <div class="alert alert-light" role="alert">
-  <a href="https://www.google.com"> A simple light alert—check it out!</a>
+  A simple light alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
 <div class="alert alert-dark" role="alert">
-  <a href="https://www.google.com"> A simple dark alert—check it out!</a>
+  A simple dark alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
 <!-- alert警告框链接 -->
 <a class="btn btn-outline-primary" href="#" role="button">primary</a>
