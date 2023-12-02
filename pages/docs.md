@@ -71,25 +71,25 @@ GitHub</a>
  <a href="https://www.google.com"> A simple primary alert—check it out!I’m a link</a>
 </div>
 <div class="alert alert-secondary" role="alert">
-  A simple secondary alert—check it out!
+   <a href="https://www.google.com">A simple secondary alert—check it out!</a>
 </div>
 <div class="alert alert-success" role="alert">
-  A simple success alert—check it out!
+   <a href="https://www.google.com">A simple success alert—check it out!</a>
 </div>
 <div class="alert alert-danger" role="alert">
-  A simple danger alert—check it out!
+  <a href="https://www.google.com"> A simple danger alert—check it out!</a>
 </div>
 <div class="alert alert-warning" role="alert">
-  A simple warning alert—check it out!
+  <a href="https://www.google.com"> A simple warning alert—check it out!</a>
 </div>
 <div class="alert alert-info" role="alert">
-  A simple info alert—check it out!
+  <a href="https://www.google.com"> A simple info alert—check it out!</a>
 </div>
 <div class="alert alert-light" role="alert">
-  A simple light alert—check it out!
+  <a href="https://www.google.com"> A simple light alert—check it out!</a>
 </div>
 <div class="alert alert-dark" role="alert">
-  A simple dark alert—check it out!
+  <a href="https://www.google.com"> A simple dark alert—check it out!</a>
 </div>
 <!-- alert警告框链接 -->
 <a class="btn btn-outline-primary" href="#" role="button">primary</a>
