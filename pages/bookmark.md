@@ -104,6 +104,7 @@ weight: 4
 </div>
   </figure>
 </details>
+
 <!-- Trade -->
 <div class="alert alert-dark" role="alert">
   A simple light alert with <a href="#" class="alert-link">Trade</a>. Give it a click if you like.
@@ -113,3 +114,16 @@ weight: 4
 <div class="alert alert-light" role="alert">
   A simple dark alert with <a href="#" class="alert-link">lTD</a>. Give it a click if you like.
 </div>
+<details>
+    <summary class="text-monospace">...More...</summary>
+  <figure class="highlight">
+<div class="text-bg-primary p-3"><a href="https://www.google.com">I’m a link</a></div>
+<div class="text-bg-secondary p-3"><a href="https://www.google.com">I’m a link</a></div>
+<div class="text-bg-success p-3"><a href="https://www.google.com">I’m a link</a></div>
+<div class="text-bg-danger p-3"><a href="https://www.google.com">I’m a link</a></div>
+<div class="text-bg-warning p-3"><a href="https://www.google.com">I’m a link</a></div>
+<div class="text-bg-info p-3"><a href="https://www.google.com">I’m a link</a></div>
+<div class="text-bg-light p-3"><a href="https://www.google.com">I’m a link</a></div>
+<div class="text-bg-dark p-3"><a href="https://www.google.com">I’m a link</a></div>
+  </figure>
+</details>
