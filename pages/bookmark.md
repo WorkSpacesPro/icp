@@ -19,8 +19,21 @@ weight: 4
 </details>
 
 <div class="alert alert-secondary" role="alert">
-  A simple secondary alert with <a href="#" class="alert-link">Host</a>. Give it a click if you like.
+  A simple secondary alert with <a href="#" class="alert-link">Host，Linux，windows，vps</a>. Give it a click if you like.
 </div>
+<details>
+    <summary class="text-monospace">...More...</summary>
+  <figure class="highlight">
+ <div class="list-group my-3">
+  <a class="list-group-item active disabled text-white">Host，Linux，windows，vps</a>
+  <a class="list-group-item list-group-item-action" href="https://icp.me/docs">Headers</a>
+  <a class="list-group-item list-group-item-action" href="#emphasis">Emphasis</a>
+  <a class="list-group-item list-group-item-action" href="#highlight">Highlight</a>
+  <a class="list-group-item list-group-item-action" href="#blockquotes">Blockquotes</a>
+</div>
+  </figure>
+</details>
+
 <div class="alert alert-success" role="alert">
   A simple success alert with <a href="#" class="alert-link">Html.css.js</a>. Give it a click if you like.
 </div>
