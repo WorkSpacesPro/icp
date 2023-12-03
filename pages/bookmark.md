@@ -94,13 +94,22 @@ weight: 4
 <div class="alert alert-info" role="alert">
   A simple info alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
-
-<!-- Html.css.js -->
+<details>
+    <summary class="text-monospace">...More...</summary>
+  <figure class="highlight">
+<div class="btn-group" role="group" aria-label="Basic outlined example">
+  <button type="button" class="btn btn-outline-primary"><a href="https://www.google.com">I’m a link</a></button>
+  <button type="button" class="btn btn-outline-primary"><a href="https://www.google.com">I’m a link</a></button>
+  <button type="button" class="btn btn-outline-primary"><a href="https://www.google.com">I’m a link</a></button>
+</div>
+  </figure>
+</details>
+<!-- Trade -->
 <div class="alert alert-dark" role="alert">
-  A simple light alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+  A simple light alert with <a href="#" class="alert-link">Trade</a>. Give it a click if you like.
 </div>
 
-<!-- Html.css.js -->
+<!-- lTD -->
 <div class="alert alert-light" role="alert">
-  A simple dark alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+  A simple dark alert with <a href="#" class="alert-link">lTD</a>. Give it a click if you like.
 </div>
