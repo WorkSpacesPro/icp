@@ -27,9 +27,7 @@ weight: 4
  <div class="list-group my-3">
   <a class="list-group-item active disabled text-white">Host，Linux，windows，vps</a>
   <a class="list-group-item list-group-item-action" href="https://icp.me/docs">Headers</a>
-  <a class="list-group-item list-group-item-action" href="#emphasis">Emphasis</a>
-  <a class="list-group-item list-group-item-action" href="#highlight">Highlight</a>
-  <a class="list-group-item list-group-item-action" href="#blockquotes">Blockquotes</a>
+  <a class="list-group-item list-group-item-action" href="#">Emphasis</a>
 </div>
   </figure>
 </details>
