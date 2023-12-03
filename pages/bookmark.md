@@ -77,10 +77,22 @@ weight: 4
   </figure>
 </details>
 
-<!-- Html.css.js -->
+<!-- img -->
 <div class="alert alert-warning" role="alert">
   A simple warning alert with <a href="#" class="alert-link">img</a>. Give it a click if you like.
 </div>
+<details>
+    <summary class="text-monospace">...More...</summary>
+  <figure class="highlight">
+<nav style="--bs-breadcrumb-divider: '';" aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="#">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Library</li>
+  </ol>
+</nav>
+</select>
+  </figure>
+</details>
 
 <!-- Html.css.js -->
 <div class="alert alert-info" role="alert">
