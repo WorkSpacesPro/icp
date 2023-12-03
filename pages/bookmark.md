@@ -125,6 +125,19 @@ weight: 4
 <div class="alert alert-dark" role="alert">
   A simple light alert with <a href="#" class="alert-link">Trade</a>. Give it a click if you like.
 </div>
+<details>
+    <summary class="text-monospace">...More...</summary>
+  <figure class="highlight">
+   
+<div class="btn-group">
+  <a href="#" class="btn btn-primary active" aria-current="page">Active link</a>
+  <a href="#" class="btn btn-primary">Active Active Link</a>
+  <a href="#" class="btn btn-primary">Active Active Active Link</a>
+</div>
+
+  </figure>
+</details>
+
 
 <!-- lTD -->
 <div class="alert alert-light" role="alert">
