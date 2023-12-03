@@ -75,18 +75,13 @@ weight: 4
 <details>
     <summary class="text-monospace">...More...</summary>
   <figure class="highlight">
-<div class="btn-group" role="group" aria-label="Button group with nested dropdown">
-<div class="card" style="width: 18rem;">
-  <div class="card-header">
-    Featured
-  </div>
-  <ul class="list-group list-group-flush">
-    <li class="list-group-item">An item</li>
-    <li class="list-group-item">A second item</li>
-    <li class="list-group-item">A third item</li>
-  </ul>
-</div>
-</div>
+<ul class="list-group list-group-flush">
+  <li class="list-group-item"><a href="https://www.google.com">I’m a link</a></li>
+  <li class="list-group-item"><a href="https://www.google.com">I’m a link</a></li>
+  <li class="list-group-item"><a href="https://www.google.com">I’m a link</a></li>
+  <li class="list-group-item"><a href="https://www.google.com">I’m a link</a></li>
+  <li class="list-group-item"><a href="https://www.google.com">I’m a link</a></li>
+</ul>
   </figure>
 </details>
 
