@@ -35,6 +35,24 @@ weight: 4
 <div class="alert alert-success" role="alert">
   A simple success alert with <a href="#" class="alert-link">Html.css.js</a>. Give it a click if you like.
 </div>
+    <summary class="text-monospace">...More...</summary>
+  <figure class="highlight">
+<div class="container text-center">
+  <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+    <div class="col">
+      <div class="p-3"><a href="https://www.google.com">I’m a link</a></div>
+    </div>
+    <div class="col">
+      <div class="p-3"><a href="https://www.google.com">I’m a link</a></div>
+    </div>
+    <div class="col">
+      <div class="p-3">Row column</div>
+    </div>
+  </div>
+</div>
+  </figure>
+</details>
+
 <div class="alert alert-danger" role="alert">
   A simple danger alert with <a href="#" class="alert-link">cdn</a>. Give it a click if you like.
 </div>
