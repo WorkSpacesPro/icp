@@ -17,17 +17,18 @@ weight: 4
     <p><a href="https://www.google.com">I’m a link</a></p>
   </figure>
 </details>
+
 <div class="alert alert-secondary" role="alert">
-  A simple secondary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+  A simple secondary alert with <a href="#" class="alert-link">Host</a>. Give it a click if you like.
 </div>
 <div class="alert alert-success" role="alert">
-  A simple success alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+  A simple success alert with <a href="#" class="alert-link">Html.css.js</a>. Give it a click if you like.
 </div>
 <div class="alert alert-danger" role="alert">
-  A simple danger alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+  A simple danger alert with <a href="#" class="alert-link">cdn</a>. Give it a click if you like.
 </div>
 <div class="alert alert-warning" role="alert">
-  A simple warning alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
+  A simple warning alert with <a href="#" class="alert-link">img</a>. Give it a click if you like.
 </div>
 <div class="alert alert-info" role="alert">
   A simple info alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
