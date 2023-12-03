@@ -141,13 +141,18 @@ weight: 4
 <details>
     <summary class="text-monospace">...More...</summary>
   <figure class="highlight">
-<div class="d-flex position-relative">
-  <img src="https://v5.bootcss.com/docs/5.3/assets/img/favicons/apple-touch-icon.png" class="flex-shrink-0 me-3" alt="bootcss">
-  <div>
-    <h5 class="mt-0">Custom component with stretched link</h5>
-    <p>This is some placeholder content for the custom component. It is intended to mimic what some .</p>
-    <a href="https://www.google.com" class="stretched-link">Go somewhere</a>
-  </div>
+
+   <div class="list-group">
+  <a href="#" class="list-group-item list-group-item-action">A simple default list group item</a>
+  <a href="#" class="list-group-item list-group-item-action list-group-item-primary">A simple primary list group item</a>
+  <a href="#" class="list-group-item list-group-item-action list-group-item-secondary">A simple secondary list group item</a>
+  <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
+  <a href="#" class="list-group-item list-group-item-action list-group-item-danger">A simple danger list group item</a>
+  <a href="#" class="list-group-item list-group-item-action list-group-item-warning">A simple warning list group item</a>
+  <a href="#" class="list-group-item list-group-item-action list-group-item-info">A simple info list group item</a>
+  <a href="#" class="list-group-item list-group-item-action list-group-item-light">A simple light list group item</a>
+  <a href="#" class="list-group-item list-group-item-action list-group-item-dark">A simple dark list group item</a>
 </div>
+
   </figure>
 </details>
