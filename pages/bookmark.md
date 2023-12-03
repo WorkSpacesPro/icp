@@ -65,14 +65,14 @@ weight: 4
 <details>
     <summary class="text-monospace">...More...</summary>
   <figure class="highlight">
-<span class="badge text-bg-primary"><a href="https://www.google.com">I’m a link</a></span>
-<span class="badge text-bg-secondary"><a href="https://www.google.com">I’m a link</a></span>
-<span class="badge text-bg-success"><a href="https://www.google.com">I’m a link</a></span>
-<span class="badge text-bg-danger"><a href="https://www.google.com">I’m a link</a></span>
-<span class="badge text-bg-warning"><a href="https://www.google.com">I’m a link</a></span>
-<span class="badge text-bg-info"><a href="https://www.google.com">I’m a link</a></span>
-<span class="badge text-bg-light"><a href="https://www.google.com">I’m a link</a></span>
-<span class="badge text-bg-dark"><a href="https://www.google.com">I’m a link</a></span>
+<div class="text-bg-primary p-3"><a href="https://www.google.com">I’m a link</a></div>
+<div class="text-bg-secondary p-3"><a href="https://www.google.com">I’m a link</a></div>
+<div class="text-bg-success p-3"><a href="https://www.google.com">I’m a link</a>Success with contrasting color</div>
+<div class="text-bg-danger p-3"><a href="https://www.google.com">I’m a link</a>Danger with contrasting color</div>
+<div class="text-bg-warning p-3"><a href="https://www.google.com">I’m a link</a></div>
+<div class="text-bg-info p-3"><a href="https://www.google.com">I’m a link</a></div>
+<div class="text-bg-light p-3"><a href="https://www.google.com">I’m a link</a>Light with contrasting color</div>
+<div class="text-bg-dark p-3"><a href="https://www.google.com">I’m a link</a>Dark with contrasting color</div>
   </figure>
 </details>
 
@@ -119,13 +119,13 @@ weight: 4
 <details>
     <summary class="text-monospace">...More...</summary>
   <figure class="highlight">
-<div class="text-bg-primary p-3"><a href="https://www.google.com">I’m a link</a></div>
-<div class="text-bg-secondary p-3"><a href="https://www.google.com">I’m a link</a></div>
-<div class="text-bg-success p-3"><a href="https://www.google.com">I’m a link</a></div>
-<div class="text-bg-danger p-3"><a href="https://www.google.com">I’m a link</a></div>
-<div class="text-bg-warning p-3"><a href="https://www.google.com">I’m a link</a></div>
-<div class="text-bg-info p-3"><a href="https://www.google.com">I’m a link</a></div>
-<div class="text-bg-light p-3"><a href="https://www.google.com">I’m a link</a></div>
-<div class="text-bg-dark p-3"><a href="https://www.google.com">I’m a link</a></div>
+<div class="d-flex position-relative">
+  <img src="https://v5.bootcss.com/docs/5.3/assets/img/favicons/apple-touch-icon.png" class="flex-shrink-0 me-3" alt="bootcss">
+  <div>
+    <h5 class="mt-0">Custom component with stretched link</h5>
+    <p>This is some placeholder content for the custom component. It is intended to mimic what some .</p>
+    <a href="https://www.google.com" class="stretched-link">Go somewhere</a>
+  </div>
+</div>
   </figure>
 </details>
