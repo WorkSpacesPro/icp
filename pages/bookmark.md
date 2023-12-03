@@ -12,7 +12,7 @@ weight: 4
   A simple primary alert with <a href="#" class="alert-link">Domain</a>
 </div>
 <details>
-    <summary class="text-monospace">View Code...</summary>
+    <summary class="text-monospace">...More...</summary>
   <figure class="highlight">
     <p><a href="https://www.google.com">I’m a link</a></p>
   </figure>
