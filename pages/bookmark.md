@@ -16,6 +16,8 @@ weight: 4
     <summary class="text-monospace">...More...</summary>
   <figure class="highlight">
     <p><a href="https://www.google.com">I’m a link</a></p>
+   <p><a href="https://www.google.com">I’m a link</a></p>
+   <p><a href="https://www.google.com">I’m a link</a></p>
   </figure>
 </details>
 
