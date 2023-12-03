@@ -56,10 +56,21 @@ weight: 4
   </figure>
 </details>
 
-<!-- Html.css.js -->
+<!-- cdn -->
 <div class="alert alert-danger" role="alert">
   A simple danger alert with <a href="#" class="alert-link">cdn</a>. Give it a click if you like.
 </div>
+<details>
+    <summary class="text-monospace">...More...</summary>
+  <figure class="highlight">
+<select class="form-select" aria-label="Default select example">
+  <option selected>cdn links</option>
+  <option value="1"><a href="https://www.google.com">I’m a link</a></option>
+  <option value="2"><a href="https://www.google.com">I’m a link</a></option>
+  <option value="3"><a href="https://www.google.com">I’m a link</a></option>
+</select>
+  </figure>
+</details>
 
 <!-- Html.css.js -->
 <div class="alert alert-warning" role="alert">
