@@ -73,40 +73,6 @@ GitHub</a>
     
   <!-- alert警告框 -->
   <h2 id="list-group"> alert警告框</h2>
-<div class="alert alert-primary" role="alert">
-  A simple primary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
-</div>
-<div class="alert alert-secondary" role="alert">
-  A simple secondary alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
-</div>
-<div class="alert alert-success" role="alert">
-  A simple success alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
-</div>
-<div class="alert alert-danger" role="alert">
-  A simple danger alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
-</div>
-<div class="alert alert-warning" role="alert">
-  A simple warning alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
-</div>
-<div class="alert alert-info" role="alert">
-  A simple info alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
-</div>
-<div class="alert alert-light" role="alert">
-  A simple light alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
-</div>
-<div class="alert alert-dark" role="alert">
-  A simple dark alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
-</div>
-<!-- alert警告框链接 -->
-<a class="btn btn-outline-primary" href="#" role="button">primary</a>
-<a class="btn btn-outline-secondary" href="#" role="button">secondary</a>
-<a class="btn btn-outline-success" href="#" role="button">success</a>
-<a class="btn btn-outline-danger" href="#" role="button">danger</a>
-<a class="btn btn-outline-warning" href="#" role="button">warning</a>
-<a class="btn btn-outline-info" href="#" role="button">info</a>
-<a class="btn btn-outline-light" href="#" role="button">light</a>
-<a class="btn btn-outline-dark" href="#" role="button">dark</a>
-
 <div class="list-group">
   <a href="#" class="list-group-item list-group-item-action">A simple default list group item</a>
   <a href="#" class="list-group-item list-group-item-action list-group-item-primary">A simple primary list group item</a>
@@ -119,92 +85,18 @@ GitHub</a>
   <a href="#" class="list-group-item list-group-item-action list-group-item-dark">A simple dark list group item</a>
 </div>
 
-</div>
+<!-- alert警告框链接 -->
+<a class="btn btn-outline-primary" href="#" role="button">primary</a>
+<a class="btn btn-outline-secondary" href="#" role="button">secondary</a>
+<a class="btn btn-outline-success" href="#" role="button">success</a>
+<a class="btn btn-outline-danger" href="#" role="button">danger</a>
+<a class="btn btn-outline-warning" href="#" role="button">warning</a>
+<a class="btn btn-outline-info" href="#" role="button">info</a>
+<a class="btn btn-outline-light" href="#" role="button">light</a>
+<a class="btn btn-outline-dark" href="#" role="button">dark</a>
 
-<!-- list-group my-3 -->
-<div class="list-group my-3">
-    <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/mdo">
-      <img src="https://github.com/mdo.png" alt="@mdo" width="32" height="32" class="rounded me-2" loading="lazy">
-      <span>
-        <strong>Mark Otto</strong> @mdo
-      </span>
-    </a>
+
+</div>
   
-    <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/fat">
-      <img src="https://github.com/fat.png" alt="@fat" width="32" height="32" class="rounded me-2" loading="lazy">
-      <span>
-        <strong>Jacob Thornton</strong> @fat
-      </span>
-    </a>
-  
-    <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/xhmikosr">
-      <img src="https://github.com/xhmikosr.png" alt="@xhmikosr" width="32" height="32" class="rounded me-2" loading="lazy">
-      <span>
-        <strong>XhmikosR</strong> @xhmikosr
-      </span>
-    </a>
-  
-    <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/geosot">
-      <img src="https://github.com/geosot.png" alt="@geosot" width="32" height="32" class="rounded me-2" loading="lazy">
-      <span>
-        <strong>GeoSot</strong> @geosot
-      </span>
-    </a>
-  
-    <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/patrickhlauke">
-      <img src="https://github.com/patrickhlauke.png" alt="@patrickhlauke" width="32" height="32" class="rounded me-2" loading="lazy">
-      <span>
-        <strong>Patrick H. Lauke</strong> @patrickhlauke
-      </span>
-    </a>
-  
-    <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/julien-deramond">
-      <img src="https://github.com/julien-deramond.png" alt="@julien-deramond" width="32" height="32" class="rounded me-2" loading="lazy">
-      <span>
-        <strong>Julien Déramond</strong> @julien-deramond
-      </span>
-    </a>
-  
-    <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/ffoodd">
-      <img src="https://github.com/ffoodd.png" alt="@ffoodd" width="32" height="32" class="rounded me-2" loading="lazy">
-      <span>
-        <strong>Gaël Poupard</strong> @ffoodd
-      </span>
-    </a>
-  
-    <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/rohit2sharma95">
-      <img src="https://github.com/rohit2sharma95.png" alt="@rohit2sharma95" width="32" height="32" class="rounded me-2" loading="lazy">
-      <span>
-        <strong>Rohit Sharma</strong> @rohit2sharma95
-      </span>
-    </a>
-  
-    <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/alpadev">
-      <img src="https://github.com/alpadev.png" alt="@alpadev" width="32" height="32" class="rounded me-2" loading="lazy">
-      <span>
-        <strong>alpadev</strong> @alpadev
-      </span>
-    </a>
-  
-    <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/martijncuppens">
-      <img src="https://github.com/martijncuppens.png" alt="@martijncuppens" width="32" height="32" class="rounded me-2" loading="lazy">
-      <span>
-        <strong>Martijn Cuppens</strong> @martijncuppens
-      </span>
-    </a>
-  
-    <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/johann-s">
-      <img src="https://github.com/johann-s.png" alt="@johann-s" width="32" height="32" class="rounded me-2" loading="lazy">
-      <span>
-        <strong>Johann-S</strong> @johann-s
-      </span>
-    </a>
-  
-    <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/glebm">
-      <img src="https://github.com/glebm.png" alt="@glebm" width="32" height="32" class="rounded me-2" loading="lazy">
-      <span>
-        <strong>Gleb Mazovetskiy</strong> @glebm
-      </span>
-    </a>
   </div>
   
