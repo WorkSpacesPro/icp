@@ -2,6 +2,7 @@
 layout: tools
 title: "Tools"
 description : "this is meta description"
+weight: 3
 #### tools ####
 tools:
 # tool category
