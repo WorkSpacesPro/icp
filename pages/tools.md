@@ -1,6 +1,6 @@
 ---
 layout: tools
-title: "Tools"
+title: "工具"
 description : "this is meta description"
 #### tools ####
 tools:
