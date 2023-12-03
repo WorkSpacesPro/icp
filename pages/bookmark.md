@@ -14,7 +14,7 @@ weight: 4
 <details>
     <summary class="text-monospace">View Code...</summary>
   <figure class="highlight">
-    p><a href="https://www.google.com">I’m a link</a></p>
+    <p><a href="https://www.google.com">I’m a link</a></p>
   </figure>
 </details>
 <div class="alert alert-secondary" role="alert">
