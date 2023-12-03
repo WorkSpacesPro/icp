@@ -76,8 +76,6 @@ weight: 4
     <summary class="text-monospace">...More...</summary>
   <figure class="highlight">
 <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
-  <button type="button" class="btn btn-primary">1</button>
-  <button type="button" class="btn btn-primary">2</button>
 <div class="card" style="width: 18rem;">
   <div class="card-header">
     Featured
