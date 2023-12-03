@@ -63,8 +63,6 @@ weight: 4
 <details>
     <summary class="text-monospace">...More...</summary>
   <figure class="highlight">
-<select class="form-select" aria-label="Default select example">
-  <option selected>cdn links</option>
 <span class="badge text-bg-primary"><a href="https://www.google.com">I’m a link</a></span>
 <span class="badge text-bg-secondary"><a href="https://www.google.com">I’m a link</a></span>
 <span class="badge text-bg-success"><a href="https://www.google.com">I’m a link</a></span>
@@ -73,7 +71,6 @@ weight: 4
 <span class="badge text-bg-info"><a href="https://www.google.com">I’m a link</a></span>
 <span class="badge text-bg-light"><a href="https://www.google.com">I’m a link</a></span>
 <span class="badge text-bg-dark"><a href="https://www.google.com">I’m a link</a></span>
-</select>
   </figure>
 </details>
 
@@ -90,7 +87,6 @@ weight: 4
     <li class="breadcrumb-item active" aria-current="page">Library</li>
   </ol>
 </nav>
-</select>
   </figure>
 </details>
 
