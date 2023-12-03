@@ -65,9 +65,14 @@ weight: 4
   <figure class="highlight">
 <select class="form-select" aria-label="Default select example">
   <option selected>cdn links</option>
-  <option value="1"><a href="https://www.google.com">I’m a link</a></option>
-  <option value="2"><a href="https://www.google.com">I’m a link</a></option>
-  <option value="3"><a href="https://www.google.com">I’m a link</a></option>
+<span class="badge text-bg-primary"><a href="https://www.google.com">I’m a link</a></span>
+<span class="badge text-bg-secondary"><a href="https://www.google.com">I’m a link</a></span>
+<span class="badge text-bg-success"><a href="https://www.google.com">I’m a link</a></span>
+<span class="badge text-bg-danger"><a href="https://www.google.com">I’m a link</a></span>
+<span class="badge text-bg-warning"><a href="https://www.google.com">I’m a link</a></span>
+<span class="badge text-bg-info"><a href="https://www.google.com">I’m a link</a></span>
+<span class="badge text-bg-light"><a href="https://www.google.com">I’m a link</a></span>
+<span class="badge text-bg-dark"><a href="https://www.google.com">I’m a link</a></span>
 </select>
   </figure>
 </details>
