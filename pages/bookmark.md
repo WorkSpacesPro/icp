@@ -8,6 +8,7 @@ weight: 4
 # **Bookmark**
  <!-- alert警告框 -->
   <h2 id="list-group"> 书签</h2>
+   <!-- Domain -->
 <div class="alert alert-primary" role="alert">
   A simple primary alert with <a href="#" class="alert-link">Domain</a>
 </div>
@@ -18,6 +19,7 @@ weight: 4
   </figure>
 </details>
 
+<!-- Host，Linux，windows，vps -->
 <div class="alert alert-secondary" role="alert">
   A simple secondary alert with <a href="#" class="alert-link">Host，Linux，windows，vps</a>. Give it a click if you like.
 </div>
@@ -31,13 +33,14 @@ weight: 4
 </div>
   </figure>
 </details>
-
+<!-- Html.css.js -->
 <div class="alert alert-success" role="alert">
   A simple success alert with <a href="#" class="alert-link">Html.css.js</a>. Give it a click if you like.
 </div>
+<details>
     <summary class="text-monospace">...More...</summary>
   <figure class="highlight">
-<div class="container text-center">
+ <div class="container text-center">
   <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
     <div class="col">
       <div class="p-3"><a href="https://www.google.com">I’m a link</a></div>
@@ -46,25 +49,34 @@ weight: 4
       <div class="p-3"><a href="https://www.google.com">I’m a link</a></div>
     </div>
     <div class="col">
-      <div class="p-3">Row column</div>
+      <div class="p-3"><a href="https://www.google.com">I’m a link</a></div>
     </div>
   </div>
 </div>
   </figure>
 </details>
 
+<!-- Html.css.js -->
 <div class="alert alert-danger" role="alert">
   A simple danger alert with <a href="#" class="alert-link">cdn</a>. Give it a click if you like.
 </div>
+
+<!-- Html.css.js -->
 <div class="alert alert-warning" role="alert">
   A simple warning alert with <a href="#" class="alert-link">img</a>. Give it a click if you like.
 </div>
+
+<!-- Html.css.js -->
 <div class="alert alert-info" role="alert">
   A simple info alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
+
+<!-- Html.css.js -->
 <div class="alert alert-dark" role="alert">
   A simple light alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
+
+<!-- Html.css.js -->
 <div class="alert alert-light" role="alert">
   A simple dark alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
