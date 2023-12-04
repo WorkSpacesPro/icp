@@ -29,7 +29,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 <div class="text-bg-warning p-3">Warning with contrasting color</div>
 <div class="text-bg-info p-3">Info with contrasting color</div>
 <div class="text-bg-dark p-3">Dark with contrasting color</div>
-
+<hr class="my-5">
 <div class="row">
 {% include about/guestbook.html %}
 </div>
