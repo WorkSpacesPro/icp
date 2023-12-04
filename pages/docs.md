@@ -10,7 +10,7 @@ weight: 5
 Hi I am **{{ site.author.name }}** :wave:,<br>
 测试页面
 <div class="row">
-<div class="col-lg-10 mx-auto mt-8 markdown-body">
+<div class="col-lg-10 mx-auto mt-10 markdown-body">
         <!-- 关闭警告框 -->
           <h2>警告框</h2>
    <div class="alert alert-danger" role="alert">
