@@ -16,6 +16,16 @@ permalink: /blog/
     {% endfor %}
 </ul>
 <!-- post test -->
+<!-- Collect tags from all posts -->
+{%- assign tags = blank -%}
+{%- for post in site.posts -%}
+  {%- assign post_tags = post.tags | join:'|' | append:'|' -%}
+  {%- if post_tags != '|' -%}
+    {%- assign tags = tags | append:post_tags -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign tags = tags | split:'|' | uniq | sort -%}
+
 <!-- List tags & related posts -->
 {% for tag in tags %}
 <div class="py-3">
@@ -37,7 +47,7 @@ permalink: /blog/
 </div>
 <hr class="bg-light">
 {% endfor %}
-
+<!-- post test -->
 {% if paginator.previous_page or paginator.next_page %}
     {% include pagination.html %}
 {% endif %}
