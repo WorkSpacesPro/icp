@@ -14,8 +14,8 @@ permalink: /blog/
             <a href="{{ "/" | relative_url  }}{{ post.url | remove_first: '/' }}">{{ post.title }} <h2>{{ post.description }}</h2></a>
         </li>
     {% endfor %}
-</ul>
-<!-- post test -->
+
+    <!-- post test -->
 <!-- Collect tags from all posts -->
 {%- assign tags = blank -%}
 {%- for post in site.posts -%}
@@ -29,7 +29,6 @@ permalink: /blog/
 <!-- List tags & related posts -->
 {% for tag in tags %}
 <div class="py-3">
-  <h4 id="{{ tag | slugify }}">{{ tag }}</h4>
   <ol>
   {% for post in site.posts %}
     {%- if post.tags contains tag -%}
@@ -48,6 +47,9 @@ permalink: /blog/
 <hr class="bg-light">
 {% endfor %}
 <!-- post test -->
+    
+</ul>
+
 {% if paginator.previous_page or paginator.next_page %}
     {% include pagination.html %}
 {% endif %}
