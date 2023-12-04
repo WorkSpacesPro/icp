@@ -13,7 +13,6 @@ open_new_tab        : false                             # Opens external URLs in
 ### Plugins ###
 plugins:
   - jemoji
-  - jekyll-paginate
 
 
 ### Navbar Settings ###
@@ -109,8 +108,4 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
-  
-### 测试翻页 ###
-  plugins: [jekyll-paginate]
-  paginate: 3
 
