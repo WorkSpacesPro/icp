@@ -1,7 +1,7 @@
 ---
 name: The Movies Project
 tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
+image: https://s2.loli.net/2023/12/02/8ocE9rZ2XJslaQV.jpg
 description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
 ---
 
