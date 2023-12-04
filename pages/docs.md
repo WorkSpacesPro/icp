@@ -74,7 +74,7 @@ GitHub</a>
 
 <!-- text-bg-primary p-3 -->
 <h2 id="list-group"> 链接</h2>
-<a href="#"  class="text-bg-light p-3">Light with contrasting</a>
+<div class="text-bg-light p-3">Light with contrasting</div>
 <div class="text-bg-primary p-3">Primary with contrasting color</div>
 <div class="text-bg-secondary p-3">Secondary with contrasting color</div>
 <div class="text-bg-success p-3">Success with contrasting color</div>
