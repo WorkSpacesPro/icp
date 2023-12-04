@@ -86,6 +86,16 @@ GitHub</a>
   <a href="#" class="list-group-item list-group-item-action list-group-item-light">A simple light list group item</a>
   <a href="#" class="list-group-item list-group-item-action list-group-item-dark">A simple dark list group item</a>
 </div>
+<!-- text-bg-primary p-3 -->
+<div class="text-bg-light p-3">Light with contrasting color</div>
+<div class="text-bg-primary p-3">Primary with contrasting color</div>
+<div class="text-bg-secondary p-3">Secondary with contrasting color</div>
+<div class="text-bg-success p-3">Success with contrasting color</div>
+<div class="text-bg-danger p-3">Danger with contrasting color</div>
+<div class="text-bg-warning p-3">Warning with contrasting color</div>
+<div class="text-bg-info p-3">Info with contrasting color</div>
+<div class="text-bg-dark p-3">Dark with contrasting color</div>
+<hr class="my-5">
 
 <!-- alert警告框链接 -->
   <h2 id="list-group"> 警告框链接</h2>
