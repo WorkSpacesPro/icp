@@ -13,8 +13,6 @@ open_new_tab        : false                             # Opens external URLs in
 ### Plugins ###
 plugins:
   - jemoji
-  - jekyll-paginate-v2
-  - jekyll-paginate
 
 
 ### Navbar Settings ###
@@ -51,11 +49,6 @@ author:
 
 
 ### Posts ###
-# Build settings
-pagination:
-  per_page: 3
-# paginate: 10
-# paginate_path: 'blog/page:num'
 permalink: /blog/:title
 
 
