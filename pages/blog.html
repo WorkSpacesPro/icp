@@ -15,6 +15,10 @@ permalink: /blog/
         </li>
     {% endfor %}
 </ul>
+<!-- post test -->
+<a href="{{ url }}"><li>{{ post.title }}</li></a>
+    <small class="text-muted"> - {{ post.date | date_to_long_string }}</small>
+    <br/>
 
 {% if paginator.previous_page or paginator.next_page %}
     {% include pagination.html %}
