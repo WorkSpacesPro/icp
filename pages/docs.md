@@ -87,7 +87,7 @@ GitHub</a>
   <a href="#" class="list-group-item list-group-item-action list-group-item-dark">A simple dark list group item</a>
 </div>
 <!-- text-bg-primary p-3 -->
-<a class="text-bg-light p-3" href="#">Light with contrasting color</a>
+<a class="text-bg-light p-3" href="#">Light with contrasting color Light with contrasting color Light with contrasting color </a>
 <div class="text-bg-primary p-3">Primary with contrasting color</div>
 <div class="text-bg-secondary p-3">Secondary with contrasting color</div>
 <div class="text-bg-success p-3">Success with contrasting color</div>
