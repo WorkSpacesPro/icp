@@ -86,6 +86,7 @@ GitHub</a>
   <a href="#" class="list-group-item list-group-item-action list-group-item-light">A simple light list group item</a>
   <a href="#" class="list-group-item list-group-item-action list-group-item-dark">A simple dark list group item</a>
 </div>
+<hr class="my-5">
 <!-- text-bg-primary p-3 -->
 <div class="text-bg-light p-3">Light with contrasting</div>
 <div class="text-bg-primary p-3">Primary with contrasting color</div>
