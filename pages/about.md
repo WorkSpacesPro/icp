@@ -20,8 +20,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
   </div>
 </div>
 <hr class="my-5">
-<!-- text-bg-primary p-3 -->
-<div class="text-bg-light p-3">Light with contrasting color</div>
+<!-- alert警告框 -->
   <h2 id="list-group"> alert警告框</h2>
 <div class="list-group">
   <div class="list-group-item list-group-item-action">A simple default list group item</div>
