@@ -116,10 +116,7 @@ GitHub</a>
 <div class="text-bg-info p-3">Info with contrasting color</div>
 <div class="text-bg-dark p-3">Dark with contrasting color</div>
 <hr class="my-5">
-<div class="vstack gap-2 col-md-5 my-5 mx-auto">
-  <button type="button" class="btn btn-secondary">Save changes</button>
-  <button type="button" class="btn btn-outline-secondary">Cancel</button>
-</div>
+
 <!-- alert警告框链接 -->
   <h2 id="list-group"> 警告框链接</h2>
 <a class="btn btn-outline-primary" href="#" role="button">primary</a>
