@@ -1,7 +1,7 @@
 ---
 layout: tools
 title: "Tools"
-permalink: /tools
+permalink: /tools/
 description : "this is meta description"
 weight: 3
 #### tools ####
