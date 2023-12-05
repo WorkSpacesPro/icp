@@ -20,6 +20,20 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
   </div>
 </div>
 <hr class="my-5">
+ <!-- list-group -->
+  <h2 id="list-group"> 细细品味</h2>
+<div class="list-group">
+  <div class="list-group-item list-group-item-action list-group-item-default">做人要一半装傻，一半装哑。有些事情心里明白就好，不用说出来，有些人看穿就好，不用去拆穿，稀里糊涂</div>
+  <div class="list-group-item list-group-item-action list-group-item-primary">A simple default list group item</div>
+  <div class="list-group-item list-group-item-action list-group-item-secondary">A simple default list group item</div>
+  <div class="list-group-item list-group-item-action list-group-item-success">A simple default list group item</div>
+  <div class="list-group-item list-group-item-action list-group-item-danger">A simple default list group item</div>
+  <div class="list-group-item list-group-item-action list-group-item-warning">A simple default list group item</div>
+  <div class="list-group-item list-group-item-action list-group-item-info">A simple default list group item</div>
+  <div class="list-group-item list-group-item-action list-group-item-light">A simple default list group item</div>
+  <div class="list-group-item list-group-item-action list-group-item-dark">A simple default list group item</div>
+</div>
+<hr class="my-5">
 
 <div class="row">
 {% include about/guestbook.html %}
