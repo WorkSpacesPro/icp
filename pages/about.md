@@ -12,8 +12,8 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
   <div class="card-header"> 关于</div>
   <div class="card-body">
     <blockquote class="blockquote mb-0">
-      <p>A well-known quote, contained in a blockquote element.</p>
-      <footer class="blockquote-footer">Wechat:QingHongJiao<cite title="Source Title">  Email;HelloWorkDev@G**il.Com</cite></footer>
+      <p>80后，五口之家，工地搬砖，勉强糊口！</p>
+      <footer class="blockquote-footer">Wechat:QingHongJiao丨<cite title="Source Title">  Email;HelloWorkDev@G**il.Com</cite></footer>
     </blockquote>
   </div>
 </div>
