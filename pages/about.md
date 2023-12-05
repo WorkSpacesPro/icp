@@ -28,7 +28,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
   <div class="list-group-item list-group-item-action list-group-item-secondary">不提醒，不指点，也不说教。强者选择原谅，智者选择惜口，只有愚者才去指点江山</div>
   <div class="list-group-item list-group-item-action list-group-item-success">如果活着不是为了快乐，那长命百岁还有什么意义呢？人有千斤担，唯独自己知，你可以回头看，但不能往回走。</div>
   <div class="list-group-item list-group-item-action list-group-item-danger">愧疚为人子，未能尽人之孝行，让父母安心，不安为人父，未担起父之责任，承子女欢情，自责为人友，未对友肝胆赤诚，空叹世间知己难寻呐，此生为人，实属意外!</div>
-  <div class="list-group-item list-group-item-action list-group-item-warning">A simple default list group item</div>
+  <div class="list-group-item list-group-item-action list-group-item-warning">也许你真有本事，但只要我不求你，你就狗屁都不是；或许我真的没有本事，只要我不靠你，这就是我的本事。</div>
   <div class="list-group-item list-group-item-action list-group-item-info">A simple default list group item</div>
   <div class="list-group-item list-group-item-action list-group-item-light">A simple default list group item</div>
   <div class="list-group-item list-group-item-action list-group-item-dark">A simple default list group item</div>
