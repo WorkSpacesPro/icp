@@ -14,6 +14,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
     <blockquote class="blockquote mb-0">
       <p>80后，五口之家，工地搬砖，勉强糊口！</p>
       <footer class="blockquote-footer">Wechat:QingHongJiao丨<cite title="Source Title">  Email;HelloWorkDev@G**il.Com</cite></footer>
+      <code class="language-liquid" data-lang="liquid">[不生产codes，只是codes的搬运工](QingHongJiao)</code>
     </blockquote>
   </div>
 </div>
