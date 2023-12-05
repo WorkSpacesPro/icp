@@ -2,7 +2,7 @@
 layout: page
 title: test
 permalink: /test/
-weight: 5
+weight: 9
 ---
 
 # About portfolYOU <small class="text-muted">{{ site.github.latest_release.tag_name }}</small>
