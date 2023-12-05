@@ -29,9 +29,9 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
   <div class="list-group-item list-group-item-action list-group-item-success">如果活着不是为了快乐，那长命百岁还有什么意义呢？人有千斤担，唯独自己知，你可以回头看，但不能往回走。</div>
   <div class="list-group-item list-group-item-action list-group-item-danger">愧疚为人子，未能尽人之孝行，让父母安心，不安为人父，未担起父之责任，承子女欢情，自责为人友，未对友肝胆赤诚，空叹世间知己难寻呐，此生为人，实属意外!</div>
   <div class="list-group-item list-group-item-action list-group-item-warning">也许你真有本事，但只要我不求你，你就狗屁都不是；或许我真的没有本事，只要我不靠你，这就是我的本事。</div>
-  <div class="list-group-item list-group-item-action list-group-item-info">A simple default list group item</div>
-  <div class="list-group-item list-group-item-action list-group-item-light">A simple default list group item</div>
-  <div class="list-group-item list-group-item-action list-group-item-dark">A simple default list group item</div>
+  <div class="list-group-item list-group-item-action list-group-item-info">不管活成什么样子，都不要把责任推给别人，一切苦乐都是自已造成的！任何一次选择，都有它对应的筹码，愿赌服输，也是一个成年人该有的品质！</div>
+  <div class="list-group-item list-group-item-action list-group-item-light"></div>
+  <div class="list-group-item list-group-item-action list-group-item-dark">合群是为了生存，孤独才是自由，成年人的世界，深夜疗伤清晨赶路，该合群合群，该独行独行，知世故而不世故，明暗随心，不谈从前，不再说如果，只希望接下来的日子越来越多，好好生活，别想也太多，三餐烟火暖，四季皆安然！</div>
 </div>
 <hr class="my-5">
 
