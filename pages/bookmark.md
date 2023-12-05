@@ -15,21 +15,19 @@ weight: 4
 <details>
     <summary class="text-monospace">...More...</summary>
   <figure class="highlight">
-   <div class="card text-center">
-  <div class="card-header">
-    Featured
-  </div>
-  <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-  <div class="card-footer text-muted">
-    2 days ago
-  </div>
-</div>
+<!-- alert警告框链接 -->
+  <h2 id="list-group"> 警告框链接</h2>
+<a class="btn btn-outline-primary" href="#" role="button">primary</a>
+<a class="btn btn-outline-secondary" href="#" role="button">secondary</a>
+<a class="btn btn-outline-success" href="#" role="button">success</a>
+<a class="btn btn-outline-danger" href="#" role="button">danger</a>
+<a class="btn btn-outline-warning" href="#" role="button">warning</a>
+<a class="btn btn-outline-info" href="#" role="button">info</a>
+<a class="btn btn-outline-light" href="#" role="button">light</a>
+<a class="btn btn-outline-dark" href="#" role="button">dark</a>
   </figure>
 </details>
+<hr class="my-5">
 
 <!-- Host，Linux，windows，vps -->
 <div class="alert alert-secondary" role="alert">
@@ -45,6 +43,7 @@ weight: 4
 </div>
   </figure>
 </details>
+<hr class="my-5">
 <!-- Html.css.js -->
 <div class="alert alert-success" role="alert">
   A simple success alert with <a href="#" class="alert-link">Html.css.js</a>. Give it a click if you like.
@@ -67,7 +66,7 @@ weight: 4
 </div>
   </figure>
 </details>
-
+<hr class="my-5">
 <!-- cdn -->
 <div class="alert alert-danger" role="alert">
   A simple danger alert with <a href="#" class="alert-link">cdn</a>. Give it a click if you like.
@@ -84,7 +83,7 @@ weight: 4
 </ul>
   </figure>
 </details>
-
+<hr class="my-5">
 <!-- img -->
 <div class="alert alert-warning" role="alert">
   A simple warning alert with <a href="#" class="alert-link">img</a>. Give it a click if you like.
@@ -100,7 +99,7 @@ weight: 4
 </nav>
   </figure>
 </details>
-
+<hr class="my-5">
 <!-- Html.css.js -->
 <div class="alert alert-info" role="alert">
   A simple info alert with <a href="#" class="alert-link">an example link</a>. Give it a click if you like.
@@ -115,6 +114,7 @@ weight: 4
 </div>
   </figure>
 </details>
+<hr class="my-5">
 
 <!-- Trade -->
 <div class="alert alert-dark" role="alert">
@@ -129,10 +129,9 @@ weight: 4
   <a href="#" class="btn btn-primary">Active Active Link</a>
   <a href="#" class="btn btn-primary">Active Active Active Link</a>
 </div>
-
   </figure>
 </details>
-
+<hr class="my-5">
 
 <!-- lTD -->
 <div class="alert alert-light" role="alert">
