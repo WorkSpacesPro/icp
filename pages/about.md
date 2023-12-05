@@ -26,7 +26,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
   <div class="list-group-item list-group-item-action list-group-item-default">做人要一半装傻，一半装哑。有些事情心里明白就好，不用说出来，有些人看穿就好，不用去拆穿，稀里糊涂</div>
   <div class="list-group-item list-group-item-action list-group-item-primary">小时候，微笑是种心情，长大后，微笑是一种表情；小时候，枕头上都是口水；长大后，枕头上都是泪水！小时候真傻，竟然盼着长大…</div>
   <div class="list-group-item list-group-item-action list-group-item-secondary">不提醒，不指点，也不说教。强者选择原谅，智者选择惜口，只有愚者才去指点江山</div>
-  <div class="list-group-item list-group-item-action list-group-item-success">A simple default list group item</div>
+  <div class="list-group-item list-group-item-action list-group-item-success">如果活着不是为了快乐，那长命百岁还有什么意义呢？人有千斤担，唯独自己知，你可以回头看，但不能往回走。</div>
   <div class="list-group-item list-group-item-action list-group-item-danger">A simple default list group item</div>
   <div class="list-group-item list-group-item-action list-group-item-warning">A simple default list group item</div>
   <div class="list-group-item list-group-item-action list-group-item-info">A simple default list group item</div>
