@@ -18,7 +18,7 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
   </div>
 </div>
 <!-- Highlight -->
-  <h2 id="highlight">Dev</h2>
+  <h2 id="highlight">Contact</h2>
 <mark class="px-2">I am text.☻</mark>
 <details>
   <summary class="text-monospace">...</summary><figure class="highlight">
