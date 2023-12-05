@@ -12,8 +12,8 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
   <div class="card-header"> 关于</div>
   <div class="card-body">
     <blockquote class="blockquote mb-0">
-      <p>80后，五口之家，工地搬砖，勉强糊口！</p>
-      <footer class="blockquote-footer">不生产codes，只是codes的搬运工丨<cite title="Source Title">  不生产codes，只是codes的搬运工</cite></footer>
+      <p>80后，上有老下有下，工地搬砖，勉强糊口！</p>
+      <footer class="blockquote-footer">不生产codes，只是codes的搬运工丨<cite title="Source Title">  喜爱，收藏，投资? Domains</cite></footer>
     </blockquote>
   </div>
 </div>
@@ -21,8 +21,12 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
   <h2 id="highlight">Contact</h2>
 <mark class="px-2">I am text.☻</mark>
 <details>
-  <summary class="text-monospace">...</summary><figure class="highlight">
-    <pre><code class="language-liquid" data-lang="liquid">[Wechat:QingHongJiao](Email;HelloWorkDev@G**il.Com)</code></pre></figure>
+  <summary class="text-monospace">...</summary>
+  <figure class="highlight">
+    <pre>
+      <code class="language-liquid" data-lang="liquid">[Wechat:QingHongJiao](Email;HelloWorkDev@G**il.Com)</code>
+    </pre>
+  </figure>
 </details>
 
 <hr class="my-5">
