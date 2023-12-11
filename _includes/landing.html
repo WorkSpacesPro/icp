@@ -1,0 +1,46 @@
+<div class="row justify-content-center align-items-center p-4">
+  <div class="col-lg-4 col-md-6 text-center mt-4">
+
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+<!-- google search  -->
+<script>
+window.portal = {
+ pageEventListeners: {
+   onLoad: (path) => {
+     // Update with your search page URL
+     if (path === '/your-search-page-URL') {
+       // Add your Google search engine ID
+       var cx = '46e7bfc593c3f4d44';
+       var gcse = document.createElement('script');
+       gcse.type = 'text/javascript';
+       gcse.async = true;
+       gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+       var s = document.getElementsByTagName('script')[0];
+       s.parentNode.insertBefore(gcse, s);
+       gcse.onload = function () {
+         var search = document.createElement('gcse:search');
+         // Note the element ID name
+         var searchBox = document.getElementById('search-box');
+         searchBox.appendChild(search);
+       };
+     }
+   }
+ }
+};
+</script>
+<!-- google search  -->
+<script async src="https://cse.google.com/cse.js?cx=46e7bfc593c3f4d44">
+</script>
+<div class="gcse-search"></div>
+
+      <div id="dummy"></div>
+      <div id="element">
+        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
+      </div>
+    </div>
+
+    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.description }}</p>
+
+  </div>
+</div>
