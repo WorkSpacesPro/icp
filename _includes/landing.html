@@ -9,7 +9,7 @@ window.portal = {
  pageEventListeners: {
    onLoad: (path) => {
      // Update with your search page URL
-     if (path === '/your-search-page-URL') {
+     if (path === 'https://icp.me') {
        // Add your Google search engine ID
        var cx = '46e7bfc593c3f4d44';
        var gcse = document.createElement('script');
@@ -35,9 +35,9 @@ window.portal = {
 <div class="gcse-search"></div>
 
       <div id="dummy"></div>
-      <div id="element">
+      <!-- <div id="element">
         <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
-      </div>
+      </div>  -->
     </div>
 
     <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.description }}</p>
