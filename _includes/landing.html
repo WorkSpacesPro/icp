@@ -4,34 +4,7 @@
     <!-- Fine Circle Responsive Image -->
     <div id="container" class="my-2">
 <!-- google search  -->
-<script>
-window.portal = {
- pageEventListeners: {
-   onLoad: (path) => {
-     // Update with your search page URL
-     if (path === 'https://icp.me') {
-       // Add your Google search engine ID
-       var cx = '46e7bfc593c3f4d44';
-       var gcse = document.createElement('script');
-       gcse.type = 'text/javascript';
-       gcse.async = true;
-       gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-       var s = document.getElementsByTagName('script')[0];
-       s.parentNode.insertBefore(gcse, s);
-       gcse.onload = function () {
-         var search = document.createElement('gcse:search');
-         // Note the element ID name
-         var searchBox = document.getElementById('search-box');
-         searchBox.appendChild(search);
-       };
-     }
-   }
- }
-};
-</script>
 <!-- google search  -->
-<script async src="https://cse.google.com/cse.js?cx=46e7bfc593c3f4d44">
-</script>
 <div class="gcse-search"></div>
 
       <div id="dummy"></div>
