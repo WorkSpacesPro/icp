@@ -112,6 +112,9 @@ weight: 4
   <button type="button" class="btn btn-outline-primary"><a href="https://www.google.com">I’m a link</a></button>
   <button type="button" class="btn btn-outline-primary"><a href="https://www.google.com">I’m a link</a></button>
 </div>
+<p class="text-start">Start aligned text on all viewport sizes.</p>
+<p class="text-center">Center aligned text on all viewport sizes.</p>
+<p class="text-end">End aligned text on all viewport sizes.</p>
   </figure>
 </details>
 <hr class="my-5">
@@ -333,9 +336,6 @@ weight: 4
     </a>
 
    <a class="list-group-item list-group-item-action d-flex align-items-startr" href="workgroup.world">
-          <p class="text-start">Start aligned text on all viewport sizes.</p>
-<p class="text-center">Center aligned text on all viewport sizes.</p>
-<p class="text-end">End aligned text on all viewport sizes.</p>
       <span>
         <strong>workgroup.world</strong> https://workgroup.world
       </span>
