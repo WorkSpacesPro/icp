@@ -125,7 +125,7 @@ weight: 4
   <figure class="highlight">
    
 <!-- link -->  
-    <div class="list-group">
+  <ul class="list-group">
      <!-- <div class="list-group"> -->  
         
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://archive.vip">
@@ -333,6 +333,7 @@ weight: 4
     </a>
 
    <a class="list-group-item list-group-item-action d-flex align-items-center" href="workgroup.world">
+          <img src="https://archive.vip/apple-touch-icon.png" alt="archive.vip" width="32" height="32" class="rounded me-2" loading="lazy">
       <span>
         <strong>workgroup.world</strong> https://workgroup.world
       </span>
@@ -361,7 +362,7 @@ weight: 4
       </span>
     </a>
   
-  </div>
+ </ul>
     <!-- link -->  
     
   </figure>
