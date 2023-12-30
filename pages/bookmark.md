@@ -137,57 +137,55 @@ weight: 4
     </a>
   
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://suanm.ing">
-       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" class="rounded me-2" loading="lazy" xmlns="http://www.w3.org/2000/svg" role="img" arialabel="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false">
-        <rect width="100%" height="100%" fill="#ffb6c1"/><text x="50%" y="50%" fill="#ffb6c1" dy=".3em">32x32</text></svg>
+   
       <span>
         <strong>算命</strong> https://suanm.ing
       </span>
     </a>
   
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://wangm.ing">
-      <img src="https://wangm.ing/apple-touch-icon.png" alt="网名" width="32" height="32" class="rounded me-2" loading="lazy">
       <span>
         <strong>网名</strong> https://wangm.ing
       </span>
     </a>
 
      <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://shengm.ing">
-      <img src="https://shengm.ing/apple-touch-icon.png" alt="生命" width="32" height="32" class="rounded me-2" loading="lazy">
+     
       <span>
         <strong>生命</strong> https://shengm.ing
       </span>
     </a>
 
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://jiam.ing">
-      <img src="https://jiam.ing/apple-touch-icon.png" alt="贾明" width="32" height="32" class="rounded me-2" loading="lazy">
+     
       <span>
         <strong>贾明</strong> https://jiam.ing
       </span>
     </a>
 
      <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://jiem.ing">
-      <img src="https://jiem.ing/apple-touch-icon.png" alt="解名" width="32" height="32" class="rounded me-2" loading="lazy">
+     
       <span>
         <strong>借命</strong> https://jiem.ing
       </span>
     </a>
   
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://icp.me">
-      <img src="https://icp.me/assets/favicon.ico" alt="iCp.Me" width="32" height="32" class="rounded me-2" loading="lazy">
+
       <span>
         <strong>iCp.Me</strong> https://icp.me
       </span>
     </a>
 
    <a class="list-group-item list-group-item-action d-flex align-items-center" href="hbw.me">
-      <img src="https://hbw.me/assets/images/hb.jpg" alt="hbw.mep" width="32" height="32" class="rounded me-2" loading="lazy">
+
       <span>
         <strong>HBw</strong> https://hbw.me
       </span>
     </a>
   
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://huw.me">
-      <img src="https://huw.me/favicon.ico" alt="HUw" width="32" height="32" class="rounded me-2" loading="lazy">
+
       <span>
         <strong>HUw</strong> https://huw.me
       </span>
