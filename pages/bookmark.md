@@ -225,7 +225,6 @@ weight: 4
     </a>
   
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://pang.ge">
-      <img src="https://pang.ge/favicon.ico" alt="pang.ge" width="32" height="32" class="rounded me-2" loading="lazy">
       <span>
         <strong>胖哥</strong> https://pang.ge
       </span>
@@ -328,14 +327,12 @@ weight: 4
     </a>
         
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://stranger.world">
-      <img src="https://icp.me/assets/favicon.ico" alt="stranger.world" width="32" height="32" class="rounded me-2" loading="lazy">
       <span>
         <strong>stranger.world</strong> https://stranger.world
       </span>
     </a>
 
    <a class="list-group-item list-group-item-action d-flex align-items-center" href="workgroup.world">
-      <img src="https://workgroup.world/favicon.ico" alt="hbw.mep" width="32" height="32" class="rounded me-2" loading="lazy">
       <span>
         <strong>workgroup.world</strong> https://workgroup.world
       </span>
@@ -359,7 +356,6 @@ weight: 4
     </a>
 
      <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://hello.ga">
-      <img src="http://fakeimg.pl/32x32" alt="Hello" width="32" height="32" class="rounded me-2" loading="lazy">
       <span>
         <strong>Hello</strong> https://hello.ga
       </span>
