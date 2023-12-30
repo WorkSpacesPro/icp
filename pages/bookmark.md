@@ -125,7 +125,7 @@ weight: 4
   <figure class="highlight">
    
 <!-- link -->  
-    <div class="list-group my-3">
+    <div class="list-group">
      <!-- <div class="list-group"> -->  
         
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://archive.vip">
