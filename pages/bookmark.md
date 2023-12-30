@@ -333,7 +333,9 @@ weight: 4
     </a>
 
    <a class="list-group-item list-group-item-action d-flex align-items-startr" href="workgroup.world">
-          <img src="https://archive.vip/apple-touch-icon.png" alt="archive.vip" width="32" height="32" class="rounded me-2" loading="lazy">
+          <p class="text-start">Start aligned text on all viewport sizes.</p>
+<p class="text-center">Center aligned text on all viewport sizes.</p>
+<p class="text-end">End aligned text on all viewport sizes.</p>
       <span>
         <strong>workgroup.world</strong> https://workgroup.world
       </span>
