@@ -125,7 +125,6 @@ weight: 4
   <figure class="highlight">
    
 <!-- link -->  
-      <div class="list-group list-group-flush"> 
        <div class="btn-group" role="group" aria-label="Basic outlined example">  
       <!-- <div class="list-group"> 表格--> 
         
@@ -370,6 +369,7 @@ weight: 4
     
   </figure>
 </details>
+
 <hr class="my-5">
 
 <!-- lTD -->
