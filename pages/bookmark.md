@@ -129,14 +129,16 @@ weight: 4
      <!-- <div class="list-group"> -->  
         
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://archive.vip">
-      <img src="https://archive.vip/apple-touch-icon.png" alt="archive.vip" width="32" height="32" class="rounded me-2" loading="lazy">
+       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" class="rounded me-2" loading="lazy" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false">
+        <rect width="100%" height="100%" fill="#ffb6c1"/><text x="50%" y="50%" fill="#ffb6c1" dy=".3em">32x32</text></svg>
       <span>
         <strong>档案</strong> archive.vip
       </span>
     </a>
   
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://suanm.ing">
-      <img src="https://suanm.ing/apple-touch-icon.png" alt="算命" width="32" height="32" class="rounded me-2" loading="lazy">
+       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" class="rounded me-2" loading="lazy" xmlns="http://www.w3.org/2000/svg" role="img" arialabel="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false">
+        <rect width="100%" height="100%" fill="#ffb6c1"/><text x="50%" y="50%" fill="#ffb6c1" dy=".3em">32x32</text></svg>
       <span>
         <strong>算命</strong> https://suanm.ing
       </span>
@@ -192,7 +194,7 @@ weight: 4
     </a>
   
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://gb.ooo">
-       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" class="rounded me-2" loading="lazy" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false">
+        <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" class="rounded me-2" loading="lazy" xmlns="http://www.w3.org/2000/svg" role="img" arialabel="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false">
         <rect width="100%" height="100%" fill="#ffb6c1"/><text x="50%" y="50%" fill="#ffb6c1" dy=".3em">32x32</text></svg>
       <span>
         <strong>GB </strong> https://gb.ooo
@@ -200,7 +202,8 @@ weight: 4
     </a>
 
      <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://kb.world">
-       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" class="rounded me-2" loading="lazy" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false">
+       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" class="rounded me-2" loading="lazy" xmlns="http://www.w3.org/2000/svg" role="img" 
+       aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false">
         <rect width="100%" height="100%" fill="#20b2aa"/><text x="50%" y="50%" fill="#20b2aa" dy=".3em">32x32</text></svg>
       <span>
         <strong>KB</strong> https://kb.world
