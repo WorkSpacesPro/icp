@@ -125,8 +125,8 @@ weight: 4
   <figure class="highlight">
    
 <!-- link -->  
-       <div class="btn-group" role="group" aria-label="Basic outlined example">  
-      <!-- <div class="list-group"> 表格--> 
+    
+     <div class="list-group">
         
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://archive.vip">
       <img src="https://archive.vip/apple-touch-icon.png" alt="archive.vip" width="32" height="32" class="rounded me-2" loading="lazy">
