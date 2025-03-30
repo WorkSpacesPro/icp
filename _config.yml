@@ -4,8 +4,8 @@ description         : >-
                       圈子越来越小，话也越来越少，有人称之为成熟。
                       有人称之为孤独，但我觉得那是看透。
                       人呐，总会落单的，与其虚假作伴，不如坦然孤独！
-baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             : "http://workspacespro.github.io/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : "icp/" # YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
